@@ -17,7 +17,7 @@ public class DemoTest {
 	public void sub(){
 		System.out.println("sub");
 		int a=10;
-		int b=20;
+		int b=20; //veriable
 		Assert.assertEquals(10,b-a);
 	}
 	
